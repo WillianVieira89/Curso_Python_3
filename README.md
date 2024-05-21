@@ -1,7 +1,7 @@
 # Curso de Python 3 Completo
 Bem-vindo ao repositório do curso de Python 3 completo! Este repositório contém todos os materiais, códigos-fonte e recursos necessários para acompanhar o curso, que abrange uma ampla gama de tópicos avançados e essenciais para o desenvolvimento em Python.
 
-Descrição do Curso
+# Descrição do Curso
 Proporcionar um aprendizado abrangente de Python 3, desde os conceitos básicos até técnicas avançadas e especializadas. Os tópicos abordados incluem:
 
 * PySide6: Desenvolvimento de interfaces gráficas com a biblioteca PySide6, permitindo a criação de aplicativos desktop modernos e responsivos.
